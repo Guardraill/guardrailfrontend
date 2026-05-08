@@ -85,4 +85,5 @@ test/              Test helpers and fixtures
 
 ## License
 
-No license file is currently included. Add one if you plan to distribute or open-source this project.
+No license file is currently included. Unless a license is added, assume all rights are reserved by the
+repository owner.
